@@ -1,8 +1,8 @@
 # ValentineMwangi1-profile
-# 👋 Hi, I'm Valentine Njeri
+#  Hi, I'm Valentine Njeri
 
-🎓 Data Analyst (Intern-Level) | Python • SQL • Power BI • Excel *R  
-📍 Nairobi, Kenya | Open to Remote & On-Site Internships
+ Data Analyst (Intern-Level) | Python • SQL • Power BI • Excel *R  
+Nairobi, Kenya | Open to Remote & On-Site Internships
 
 ---
 
@@ -57,11 +57,11 @@ This project explores income-related data to understand demographic and work-rel
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 📧 Email: njerivalentine6@gmail.com  
-- 💼 LinkedIn:(www.linkedin.com/in/valentine-njeri-966444256)  
-- 🌐 Portfolio: Coming soon!
+-  Email: njerivalentine6@gmail.com  
+-  LinkedIn:(www.linkedin.com/in/valentine-njeri-966444256)  
+-  Portfolio: Coming soon!
 
 ---
 
