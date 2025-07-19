@@ -1,7 +1,7 @@
 # ValentineMwangi1-profile
 #  Hi, I'm Valentine Njeri
 
- Data Analyst (Intern-Level) | Python • SQL • Power BI • Excel *R  
+ Data Analyst (Intern-Level) | Python • SQL • Power BI • Excel •R  
 Nairobi, Kenya | Open to Remote & On-Site Internships
 
 ---
